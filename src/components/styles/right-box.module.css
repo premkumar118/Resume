@@ -1,0 +1,63 @@
+.projects{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+    font-size: 13px;
+}
+.projects>h2{
+    margin-bottom: 0px;
+}
+.projects>hr{
+    margin-bottom: -15px;
+}
+.projects>span>a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-top: -10px;
+    margin-bottom: -5px;
+    color: black;
+}
+.projects>span>a:hover{
+    color: royalblue;
+}
+.projects>span>h3{
+    margin-top: 30px;
+}
+.projects>span>h4{
+    color: rgb(118, 118, 118);
+    margin-top: -10px;
+}
+.projects>span>a>svg{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.projects>span>ul>li{
+    margin-top: -10px;
+}
+
+
+.education{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.education>h2{
+    margin-bottom: 0px;
+}
+.education>span>h3{
+    color: gray;
+    margin-bottom: -10px;
+}
+.education>span>h4{
+    margin-bottom: -10px;
+}
+.education>span>h5{
+    width: 100%;
+    margin-bottom: -5px;
+    display: flex;
+    justify-content: flex-end;
+    color: rgb(71, 71, 71);
+}
+.education>span>p{
+    margin-bottom: 35px;
+}

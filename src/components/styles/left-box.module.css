@@ -1,0 +1,95 @@
+.profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.profile>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 7px solid white;
+}
+.profile>h1{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.profile>h3{
+    margin-top: 0px;
+    width: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(98, 189, 0);
+}
+
+
+.detail{
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+.detail>span{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+.detail>span>svg{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+.detail>span>a{
+    text-decoration: none;
+    color: black;
+}
+.detail>span>a:hover{
+    color: rgb(98, 189, 0);
+}
+
+
+.description{
+    font-family: sans-serif;
+    margin-bottom: -15px;
+}
+.description>h4{
+    margin-bottom: 0px;
+}
+.description>p{
+    font-size: 12px;
+}
+
+
+.skills{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -15px;
+}
+.skills>h4{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.skills>ul{
+    margin-top: 0px;
+}
+.skills>ul>li{
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+
+.language{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.language>h4{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.language>ul{
+    margin-top: 0px;
+}
+.language>ul>li{
+    margin-bottom: 10px;
+    font-size: 12px;
+}
