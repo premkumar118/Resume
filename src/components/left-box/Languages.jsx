@@ -7,11 +7,10 @@ const Languages = () => {
             <hr />
             <ul>
                 <li>JAVA</li>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>BOOTSTRAP</li>
-                <li>TAILWIND</li>
+                <li>HTML, CSS</li>
+                <li>JAVA SCRIPT</li>
                 <li>REACT</li>
+                <li>BOOTSTRAP</li>
             </ul>
         </div>
     );
